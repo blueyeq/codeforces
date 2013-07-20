@@ -1,0 +1,1 @@
+del    *.exe *.o   /f /q /s
